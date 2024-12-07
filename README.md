@@ -12,7 +12,7 @@
 ## 🛠 Tech Stack  
 - **Frontend**: Next.js, React, TypeScript, JavaScript, HTML5, CSS3  
 - **Styling**: Tailwind CSS, Framer Motion, ShadCN UI  
-- **Backend & Tools**: Sanity, Strapi, Stripe, Clerk  
+- **Backend & Tools**: Sanity, Strapi, Stripe, Clerk, Drizzle, Neon  
 - **Version Control**: Git, GitHub  
 
 ## 📬 Connect  
